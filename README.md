@@ -80,7 +80,6 @@ Feel free to fork this repository, submit pull requests, or open issues if you h
 
 ## License
 This project is open-source and licensed under the [MIT License](LICENSE).
-
 ---
 
 For further assistance or questions, please reach out via the [repository issues page](https://github.com/muharemd/pihole-domain-list/issues).
