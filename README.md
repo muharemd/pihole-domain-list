@@ -1,4 +1,3 @@
-```markdown
 # Pi-hole Domain List Automation Script
 
 This repository contains a Bash script designed to automate the process of managing blocklists for Pi-hole, a network-wide ad blocker. The script dynamically downloads, merges, and processes domain blocklists, ensuring your Pi-hole setup remains up-to-date with the latest malicious domains.
